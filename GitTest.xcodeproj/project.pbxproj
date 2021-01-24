@@ -13,6 +13,8 @@
 		ABA4C5D625BD2EF900DC5171 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABA4C5C125BD2EF400DC5171 /* ContentView.swift */; };
 		ABA4C5D725BD2EF900DC5171 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ABA4C5C225BD2EF900DC5171 /* Assets.xcassets */; };
 		ABA4C5D825BD2EF900DC5171 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ABA4C5C225BD2EF900DC5171 /* Assets.xcassets */; };
+		ABA4C5E425BD2FA500DC5171 /* DanielsFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABA4C5E325BD2FA500DC5171 /* DanielsFile.swift */; };
+		ABA4C5E525BD2FA500DC5171 /* DanielsFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABA4C5E325BD2FA500DC5171 /* DanielsFile.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,7 @@
 		ABA4C5CF25BD2EF900DC5171 /* GitTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GitTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		ABA4C5D125BD2EF900DC5171 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		ABA4C5D225BD2EF900DC5171 /* macOS.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = macOS.entitlements; sourceTree = "<group>"; };
+		ABA4C5E325BD2FA500DC5171 /* DanielsFile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DanielsFile.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +63,7 @@
 				ABA4C5C025BD2EF400DC5171 /* GitTestApp.swift */,
 				ABA4C5C125BD2EF400DC5171 /* ContentView.swift */,
 				ABA4C5C225BD2EF900DC5171 /* Assets.xcassets */,
+				ABA4C5E325BD2FA500DC5171 /* DanielsFile.swift */,
 			);
 			path = Shared;
 			sourceTree = "<group>";
@@ -187,6 +191,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				ABA4C5E425BD2FA500DC5171 /* DanielsFile.swift in Sources */,
 				ABA4C5D525BD2EF900DC5171 /* ContentView.swift in Sources */,
 				ABA4C5D325BD2EF900DC5171 /* GitTestApp.swift in Sources */,
 			);
@@ -196,6 +201,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				ABA4C5E525BD2FA500DC5171 /* DanielsFile.swift in Sources */,
 				ABA4C5D625BD2EF900DC5171 /* ContentView.swift in Sources */,
 				ABA4C5D425BD2EF900DC5171 /* GitTestApp.swift in Sources */,
 			);
